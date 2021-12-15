@@ -2,7 +2,7 @@
 
 Performing analysis on Kickstarter data to uncover trends.
 
-![ParentCategoryOutcomes.png](resources/ParentCategoryOutcomes.png)
+![TheatreOutcomesBasedOnLaunchDate.png](resources/TheatreOutcomesBasedOnLaunchDate.png)
 
 1. Overview of the Project:  
 
