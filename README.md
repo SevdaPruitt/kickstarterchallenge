@@ -15,7 +15,8 @@ Having a large set of data, created pivot tables to summarize data and to filter
 3. Results: 
 
 a. What are two conclusions you can draw about the Theater Outcomes by Launch Date?
- Month of May is the most successful month.
+   1. Month of May is the most successful month.
+   2. There are no canceled plays.
 
 b. What can you conclude about the Outcomes based on Goals? 
 Goals set between $1000 - $4999 is the most pledged amount or successful.
